@@ -1,10 +1,12 @@
 https://openweathermap.org/
-![image](https://github.com/hashinil/python_weather_forcast/assets/33922245/a8d5a3b5-00d7-418a-921a-e88cdd19efa7)
 
 
-![image](https://github.com/hashinil/python_weather_forcast/assets/33922245/356a5ea7-e18d-42da-a08a-bd579d4f7aae)
+![image](https://github.com/hashinil/python_weather_forcast/assets/33922245/33426825-3eea-47ae-ac16-e1bd6b16ac05)
 
 
-![image](https://github.com/hashinil/python_weather_forcast/assets/33922245/03c8695e-996a-414b-9cfe-5334d8c11ccb)
+![image](https://github.com/hashinil/python_weather_forcast/assets/33922245/1f7b8589-6e4d-4852-9cec-a73526abad16)
+
+
+![image](https://github.com/hashinil/python_weather_forcast/assets/33922245/0d326466-34b5-4611-832c-e92de9d91d8d)
 
 
